@@ -1,4 +1,4 @@
-<h1>Hello there</h1> 👋
+## :wave: Hello! My name is Zhenyu Ma.
 - 🧐 Interested in full stack.<br>
 - 🎓 Master of Computer Engineering.<br>
 - 📚 Reading more about non-fiction and how the computer works.<br>
